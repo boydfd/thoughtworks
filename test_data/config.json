@@ -1,0 +1,65 @@
+[
+		{
+			"barcode": "ITEM000001",
+			"name": "羽毛球",
+			"category": "个",
+			"price": 1.00,
+			"rebate_type":3
+		},
+		{
+			"barcode": "ITEM000003",
+			"name": "苹果",
+			"category": "斤",
+			"price": 5.50,
+			"rebate_type":2
+		},
+		{
+			"barcode": "ITEM000005",
+			"name": "可口可乐",
+			"category": "瓶",
+			"price": 3.00,
+			"rebate_type":1
+		},
+		{
+			"barcode": "ITEM000006",
+			"name": "可口可乐1",
+			"category": "瓶",
+			"price": 3.00,
+			"rebate_type":1
+		},
+		{
+			"barcode": "ITEM000007",
+			"name": "可口可乐2",
+			"category": "瓶",
+			"price": 3.00,
+			"rebate_type":1
+		},
+		{
+			"barcode": "ITEM000008",
+			"name": "可口可乐3",
+			"category": "瓶",
+			"price": 3.00,
+			"rebate_type":1
+		},
+		{
+			"barcode": "ITEM000009",
+			"name": "可口可乐4",
+			"category": "瓶",
+			"price": 3.00,
+			"rebate_type":1
+		},
+		{
+			"barcode": "ITEM000010",
+			"name": "可口可乐5",
+			"category": "瓶",
+			"price": 3.00,
+			"rebate_type":1
+		},
+		{
+			"barcode": "ITEM000011",
+			"name": "可口可乐6",
+			"category": "瓶",
+			"price": 3.00,
+			"rebate_type":9
+		}
+]
